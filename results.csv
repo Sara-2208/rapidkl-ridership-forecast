@@ -1,0 +1,10 @@
+Line,Model,MAE,RMSE,MAPE (%)
+LRT Kelana Jaya Line,Seasonal Naive,19690.8,42926.9,10.6
+LRT Kelana Jaya Line,Holt-Winters,19661.7,41436.4,10.8
+LRT Kelana Jaya Line,LightGBM,10629.7,16066.3,4.6
+MRT Kajang Line,Seasonal Naive,17445.8,33537.3,7.5
+MRT Kajang Line,Holt-Winters,16668.8,32888.4,7.3
+MRT Kajang Line,LightGBM,12021.5,17518.2,4.5
+MRT Putrajaya Line,Seasonal Naive,10285.8,21957.3,7.4
+MRT Putrajaya Line,Holt-Winters,10347.8,21209.9,7.3
+MRT Putrajaya Line,LightGBM,7805.2,13007.6,5.1
